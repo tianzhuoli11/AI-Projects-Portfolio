@@ -22,8 +22,11 @@ An AI-powered smart home assistant integrating large language models, voice inte
 NestJS · TypeScript · Node.js · OpenAI API · MQTT · SQLite
 
 ### Project Materials
-- [Watch Demonstration Video](INSERT_VIDEO_LINK)
-- [Read Capstone Thesis (PDF)](INSERT_PDF_LINK)
+[Watch Konnext Demo](Konnext-Smart-Home-Agent/video.mp4)
+
+[Read Capstone Thesis](Konnext-Smart-Home-Agent/TianzhuoLi_550351692.pdf)
+
+
 
 ---
 
@@ -32,7 +35,7 @@ NestJS · TypeScript · Node.js · OpenAI API · MQTT · SQLite
 A separate digital human project developed for 北武院.
 
 ### Project Materials
-- [Download Digital Human Project (ZIP)](INSERT_ZIP_LINK)
+[Download Digital Human Project](Beiwu-Digital-Human/数字人.zip)
 
 The project is provided as a ZIP archive containing its associated files.
 
