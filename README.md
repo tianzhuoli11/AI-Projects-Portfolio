@@ -1,46 +1,51 @@
-# Konnext AI — Intelligent Smart Home Agent
+# AI Projects Portfolio
+
+**AI Agent Development | Smart Home Systems | Digital Human Applications**
+
+Welcome to my AI project portfolio. This repository presents two independent projects involving AI applications, intelligent interaction, and system development.
+
+## Project 1: Konnext AI — Intelligent Smart Home Agent
 
 **University of Sydney | ELEC5021 Capstone Project | 2026**
 
-An AI-powered smart home agent that combines natural language understanding, voice interaction, smart home simulation, persistent memory, and proactive assistance.
+An AI-powered smart home assistant integrating large language models, voice interaction, virtual robot simulation, long-term memory, and proactive assistance.
 
-## Project Overview
+### Key Features
+- Natural language understanding and voice command processing
+- Smart home device control in a virtual environment
+- Persistent user preferences and long-term memory
+- Context-aware proactive reminders
+- Safety mechanisms and controlled command execution
+- Interactive web-based robot simulator
 
-This project develops a virtual smart home assistant powered by Large Language Models (LLMs). The system integrates an AI backend with a web-based robot simulator, enabling users to interact with smart home scenarios through natural language and voice commands.
+### Technology Stack
+NestJS · TypeScript · Node.js · OpenAI API · MQTT · SQLite
 
-## Demonstration
+### Project Materials
+- [Watch Demonstration Video](INSERT_VIDEO_LINK)
+- [Read Capstone Thesis (PDF)](INSERT_PDF_LINK)
 
-**[Watch Project Demo](INSERT_VIDEO_LINK)**
+---
 
-## Key Features
+## Project 2: Digital Human Project — 北武院
 
-- **Voice Interaction:** Speech recognition and natural language command processing.
-- **Smart Home Simulation:** Intent-based control of simulated home devices.
-- **Long-term Memory:** Persistent user preferences and habits using SQLite.
-- **Proactive Assistance:** Context-aware reminders based on stored habits.
-- **Safety Mechanisms:** STOP protection, request validation, and controlled device execution.
-- **Virtual Robot Interface:** Interactive web simulator for system demonstrations.
+A separate digital human project developed for 北武院.
 
-## Technology Stack
+### Project Materials
+- [Download Digital Human Project (ZIP)](INSERT_ZIP_LINK)
 
-- Backend: NestJS, TypeScript, Node.js
-- AI: OpenAI API, LLM-based intent recognition
-- Communication: MQTT
-- Persistence: SQLite
-- Frontend: Web-based virtual robot simulator
+The project is provided as a ZIP archive containing its associated files.
 
-## Project Resources
+---
 
-**[Capstone Thesis](INSERT_PDF_LINK)**
+## About This Portfolio
 
-**[Download Digital Human Package](INSERT_ZIP_LINK)**
+These two projects represent independent work in AI-related applications.
 
-## My Contributions
+The Konnext project focuses on AI agents, natural language interaction, smart home automation, persistent memory, and proactive assistance.
 
-Designed and implemented the AI agent backend, voice command pipeline, virtual smart home simulation, persistent memory mechanisms, proactive interaction workflow, and system testing.
+The 北武院 project focuses on a separate digital human application.
 
-## Project Scope
+This portfolio is intended to help recruiters and technical interviewers review my project experience and supporting materials.
 
-The final implementation uses a virtual robot simulator and software-based smart home devices rather than physical robot hardware.
-
-*This repository is intended as a project portfolio and demonstration archive.*
+**Note:** The two projects are independent and are not components of the same system.
