@@ -1,4 +1,3 @@
-# Konnext-AI-Smart-Home-Agent
 # Konnext AI — Intelligent Smart Home Agent
 
 **University of Sydney | ELEC5021 Capstone Project | 2026**
